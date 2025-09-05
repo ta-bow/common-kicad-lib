@@ -1,0 +1,3 @@
+[submodule "hardware/libs/common"]
+	path = hardware/libs/common
+	url = git@github.com:ta-bow/common-kicad-lib.git
